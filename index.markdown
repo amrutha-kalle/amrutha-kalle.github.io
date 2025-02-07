@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
 ---
 
 ![Profile Picture]({{ site.baseurl }}/assets/images/profile.jpg)
@@ -22,3 +20,6 @@ Here is a review paper I wrote for ASTRO160: Stellar Physics at UC Berkeley.
 <a href="{{ site.baseurl }}/assets/paper.pdf" target="_blank">Paper</a>
 
 ##### Contact Me
+- **Email**: [akalle@ucsb.com](mailto:akalle@ucsb.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amrutha-kalle)
+- **GitHub**: [GitHub Profile](https://github.com/amrutha-kalle)
