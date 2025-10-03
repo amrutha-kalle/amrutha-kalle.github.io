@@ -1,27 +1,27 @@
 body {
   font-family: "Century Gothic", CenturyGothic, sans-serif;
   margin: 40px;
-  background-color: #dcc4ee;
+  background-color: #f4e6ff;
   color: #333;
-  text-align: center;
 }
 
 h1, h2 {
   font-family: "Century Gothic", CenturyGothic, sans-serif;
   color: #0066cc;
-  text-align: center;
+  /* text-align: center; */
 }
 
 img {
-  /* width: 200px; */
+  width: 200px;
   border-radius: 10px;
   float: left;
 }
 
-/* #about-me {
+#about-me {
   background: #e0f0ff;
   padding: 15px;
   border: 1px solid #0066cc;
+  text-align: center;
 }
 
 #expert-topics {
@@ -29,4 +29,4 @@ img {
   background: #d0c2e3;
   padding: 15px;
   border: 1px solid #6100ea;
-} */
+}
