@@ -1,11 +1,12 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   margin: 40px;
   background-color: #f4f4f4;
   color: #333;
 }
 
 h1, h2 {
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   color: #0066cc;
 }
 
@@ -14,8 +15,15 @@ img {
   border-radius: 10px;
 }
 
-#expert-topics {
+#about-me {
   background: #e0f0ff;
   padding: 15px;
   border: 1px solid #0066cc;
+}
+
+#expert-topics {
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
+  background: #bb9ee4;
+  padding: 15px;
+  border: 1px solid #6100ea;
 }
