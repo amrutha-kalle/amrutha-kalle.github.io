@@ -14,19 +14,19 @@ h1, h2 {
 img {
   width: 200px;
   border-radius: 10px;
-  float: left;
+  float: right;
 }
 
 #about-me {
-  background: #e0f0ff;
+  /* background: #e0f0ff;
   padding: 15px;
-  border: 1px solid #0066cc;
+  border: 1px solid #0066cc; */
   text-align: center;
 }
 
 #expert-topics {
   font-family: "Century Gothic", CenturyGothic, sans-serif;
-  background: #d0c2e3;
+  /* background: #d0c2e3;
   padding: 15px;
-  border: 1px solid #6100ea;
+  border: 1px solid #6100ea; */
 }
