@@ -15,13 +15,15 @@ img {
   width: 200px;
   border-radius: 10px;
   float: right;
+  vertical-align: middle;
 }
 
 #about-me {
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   /* background: #e0f0ff;
   padding: 15px;
-  border: 1px solid #0066cc; */
-  text-align: center;
+  border: 1px solid #0066cc;
+  text-align: center; */
 }
 
 #expert-topics {
